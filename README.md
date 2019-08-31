@@ -41,6 +41,6 @@ Mgek项目使用**MIT**开源许可和**GPL**开源许可，你可以自由地�
 
 [Mgek项目主页](http://mgek.cc)
 
-[我的技术博客](http://pop.lrenj.top)
+[我的技术博客](http://blog.lrenj.top)
 
 困难永远不是阻挡前进的屏障
